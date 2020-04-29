@@ -2,18 +2,12 @@
 
 ![Program evaluation image](static/img/social-image.png)
 
-## Theme
 
-This site uses the [Academic Hugo theme](https://sourcethemes.com/academic/), with some slight template modifications found in `/assets/` and `layouts/`. The theme is included as a submodule, so when when cloning for the first time, use this command to get the theme too:
+# Difference-in-differences, Regression discontinuity, Instrumental variables, Randomization and matching https://evalsp20.classes.andrewheiss.…
 
-    git clone --recursive https://github.com/gcushen/hugo-academic.git
 
-To get the theme later, use this command:
+# SLIDES
+Impact_Evaluation_DID_IV_RegDiscontinuity\static\slides
 
-    git submodule add \
-      https://github.com/gcushen/hugo-academic.git \
-      themes/hugo-academic
-
-To update to the latest version of the theme, use:
-
-    git submodule update --recursive --remote
+# R-stuff
+Impact_Evaluation_DID_IV_RegDiscontinuity\static\projects
